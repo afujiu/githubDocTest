@@ -5,7 +5,10 @@
   <tr><th>a</th></tr>
   <tr><td>a</td></tr>
 </table>
+
+# 画像
 <img src="image.png"/>
 
-<object type="image/svg+xml" data="icon.svg" width="256" height="256"></object>
+# SVG
+<img src="icon.svg" width="32" height="32">
 
