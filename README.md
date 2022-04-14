@@ -7,8 +7,8 @@
 </table>
 
 # 画像
-<img src="image.png"/>
+<img src="image.png"  width="100" height="100"/>
 
 # SVG
-<img src="icon.svg" width="32" height="32">
+<img src="icon.svg" width="100" height="100">
 
